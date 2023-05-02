@@ -13,7 +13,7 @@ res.send('Food Recipe is running')
 })
 
 
-
+// response for recipes API
 app.get('/recipes', (req, res)=>{
     res.send(recipes)
 })
