@@ -52,11 +52,11 @@
         },
         {
             "id": 2,
-            "chef_name": "Mario Batali",
+            "chef_name": "Mario john",
             "experience_years": 25,
             "chef_picture_url": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1682978240~exp=1682978840~hmac=6103651b3325362aadcf5c987923dd8cdd0a5e595bf5e72ec2c26dafc404f085",
             "likes": 43,
-            "number_of_recipes": 12,
+            "number_of_recipes": 50,
             "description": "A chef is a professional cook who is trained in the art of food preparation and specializes in creating and designing dishes. They may work in a variety of settings, such as restaurants, hotels, or catering companies, and are responsible for managing kitchen staff, ordering ingredients, and creating menus. Chefs often have years of culinary experience and may have received formal training at a culinary school or through an apprenticeship. They use their knowledge of cooking techniques and ingredients to create flavorful and visually appealing dishes that are enjoyed by diners.",
             "recipes": [
                 {
