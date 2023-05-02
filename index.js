@@ -4,6 +4,7 @@ const cors = require('cors')
 // port of my server
 const port =  5000;
 
+// require for recipes json
 const recipes = require('./data/recipes.json');
 
 app.use(cors())
