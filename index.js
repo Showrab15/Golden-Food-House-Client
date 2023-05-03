@@ -7,6 +7,7 @@ const port =  5000;
 // require for recipes json
 const recipes = require('./data/recipes.json');
 
+// cors added
 app.use(cors())
 
 app.get('/', (req, res) => {
@@ -17,6 +18,13 @@ res.send('Food Recipe is running')
 // response for recipes API
 app.get('/recipes', (req, res)=>{
     res.send(recipes)
+})
+
+app.get('/recipes/:id', (req, res)=>{
+    const id = req.params.id;
+    console.log(id);
+    const selectedRecipes = recipes.find(singleRecipes => singleRecipes.id == id)
+    res.send(selectedRecipes)
 })
 
 app.listen(port ,()=>{
