@@ -32,7 +32,7 @@
                     "olive oil"
                 ],
                 "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
-                "rating": 4
+                "rating": 4.5
             },
             {
                 "recipe_name": "Roasted Mutton",
@@ -95,7 +95,7 @@
                     "olive oil"
                 ],
                 "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
-                "rating": 5
+                "rating": 3.5
             }
         ]
     },
@@ -169,7 +169,7 @@
                     "olive oil"
                 ],
                 "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
-                "rating": 5
+                "rating": 3.5
             },
             {
                 "recipe_name": "Roasted Beef",
@@ -219,7 +219,7 @@
                     "olive oil"
                 ],
                 "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
-                "rating": 5
+                "rating": 4.5
             },
             {
                 "recipe_name": "Roasted Beef",
@@ -232,7 +232,7 @@
                     "olive oil"
                 ],
                 "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
-                "rating": 4
+                "rating": 4.2
             },
             {
                 "recipe_name": "Roasted Mutton",
@@ -245,7 +245,7 @@
                     "olive oil"
                 ],
                 "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
-                "rating": 4
+                "rating": 4.8
             }
         ]
     },
@@ -269,7 +269,7 @@
                     "olive oil"
                 ],
                 "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
-                "rating": 3
+                "rating": 3.8
             },
             {
                 "recipe_name": "Roasted Beef",
@@ -282,7 +282,7 @@
                     "olive oil"
                 ],
                 "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
-                "rating": 5
+                "rating": 4.5
             },
             {
                 "recipe_name": "Roasted Mutton",
@@ -295,7 +295,7 @@
                     "olive oil"
                 ],
                 "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
-                "rating": 4
+                "rating": 5
             }
         ]
     }
