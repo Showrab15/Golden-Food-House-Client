@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "chef_name": "Mario Batali",
+        "chef_name": "Sarah Taylor ",
         "experience_years": 25,
-        "chef_picture_url": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1682978240~exp=1682978840~hmac=6103651b3325362aadcf5c987923dd8cdd0a5e595bf5e72ec2c26dafc404f085",
+        "chef_picture_url": "https://i.ibb.co/qy7FJqv/chef4.jpg",
         "likes": 43,
         "number_of_recipes": 12,
         "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy",
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole chicken",
                     "lemon",
@@ -22,58 +22,65 @@
                 "rating": 5
             },
             {
-                "recipe_name": "Roasted Beef",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+                "recipe_name": "Stir-Fried Beef and Broccoli",
+               
                 "ingredients": [
-                    "whole Beef",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                  " 1 pound beef sirloin, sliced into thin strips",
+"2 cups broccoli florets",
+"1 tablespoon cornstarch",
+"1 tablespoon soy sauce",
+"1 teaspoon sesame oil"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "In a wok or large skillet, heat 1 tablespoon of oil over high heat.Add the beef and stir-fry until browned.Add the broccoli and stir-fry for 2-3 minutes.In a small bowl, mix together the cornstarch, soy sauce, and sesame oil.Add the sauce to the wok and stir-fry until the sauce thickens and coats the beef and broccoli",
                 "rating": 4.5
             },
             {
                 "recipe_name": "Roasted Mutton",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
-                    "whole Mutton",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "4 cups chicken broth",
+                   "2 eggs, beaten",
+                  "2 tablespoons cornstarch",
+                  "1 tablespoon soy sauce",
+                  "1 green onion, thinly sliced"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "Preheat a grill or grill pan to high heat. Season the beef with salt and pepper.Grill the beef for 2-3 minutes per side, until browned.In a pot of boiling water, blanch the broccoli for 2-3 minutes.In a large skillet, heat the sauce over medium heat until it thickens.Add the beef and broccoli to the skillet and toss to coat in the sauce",
+                
+              
                 "rating": 4
             }
         ]
     },
+
+
+
     {
         "id": 2,
-        "chef_name": "Mario john",
+        "chef_name": "Olivia Sopiha",
         "experience_years": 25,
-        "chef_picture_url": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1682978240~exp=1682978840~hmac=6103651b3325362aadcf5c987923dd8cdd0a5e595bf5e72ec2c26dafc404f085",
+        "chef_picture_url": "https://i.ibb.co/9cRd7WT/chef2.jpg",
         "likes": 43,
         "number_of_recipes": 50,
-        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy",
+        "description": "A chef is a professional cook who is skilled in preparing and cooking a variety of dishes",
         "recipes": [
             {
-                "recipe_name": "Roasted Chicken",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+                "recipe_name": "Pork and Shrimp Wontons",
+               
                 "ingredients": [
-                    "whole chicken",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                 "Wonton wrappers",
+                   "Ground pork",
+                    "Raw shrimp, peeled and deveined",
+                   "Green onions, thinly sliced",
+                    "Soy sauce"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "In a mixing bowl, combine the ground pork, shrimp, green onions, and soy sauce.Spoon a small amount of the mixture into each wonton wrapper and fold it into a triangle or purse shape.In a large pot of boiling water, cook the wontons for 3-5 minutes or until they float to the surface.Serve hot with soy sauce or dipping sauce of your choice",
+                
+              
                 "rating": 4
             },
             {
                 "recipe_name": "Roasted Beef",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Beef",
                     "lemon",
@@ -86,7 +93,7 @@
             },
             {
                 "recipe_name": "Roasted Mutton",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Mutton",
                     "lemon",
@@ -101,16 +108,16 @@
     },
     {
         "id": 3,
-        "chef_name": "Mario Batali",
+        "chef_name": "Kimo Paul",
         "experience_years": 25,
-        "chef_picture_url": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1682978240~exp=1682978840~hmac=6103651b3325362aadcf5c987923dd8cdd0a5e595bf5e72ec2c26dafc404f085",
+        "chef_picture_url": "https://i.ibb.co/MnXbDh9/chef3.jpg",
         "likes": 43,
         "number_of_recipes": 12,
-        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy",
+        "description": "A pastry chef is a specialized type of chef who focuses on creating and decorating pastries, desserts, and baked goods",
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole chicken",
                     "lemon",
@@ -123,7 +130,7 @@
             },
             {
                 "recipe_name": "Roasted Beef",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Beef",
                     "lemon",
@@ -136,7 +143,7 @@
             },
             {
                 "recipe_name": "Roasted Mutton",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Mutton",
                     "lemon",
@@ -151,16 +158,16 @@
     },
     {
         "id": 4,
-        "chef_name": "Mario Batali",
+        "chef_name": "Elisa Perry",
         "experience_years": 25,
-        "chef_picture_url": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1682978240~exp=1682978840~hmac=6103651b3325362aadcf5c987923dd8cdd0a5e595bf5e72ec2c26dafc404f085",
+        "chef_picture_url": "https://i.ibb.co/Hz8cTDy/chef-holding-pan-with-fire-inside.jpg",
         "likes": 43,
         "number_of_recipes": 12,
-        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy",
+        "description": "A  chef, also known as a line cook or  cook, is responsible for cooking and preparing food on a grill or flat-top griddle in a restaurant or commercial kitchen setting.",
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole chicken",
                     "lemon",
@@ -173,7 +180,7 @@
             },
             {
                 "recipe_name": "Roasted Beef",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Beef",
                     "lemon",
@@ -186,7 +193,7 @@
             },
             {
                 "recipe_name": "Roasted Mutton",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Mutton",
                     "lemon",
@@ -201,16 +208,16 @@
     },
     {
         "id": 5,
-        "chef_name": "Mario Batali",
+        "chef_name": "Ross Adair",
         "experience_years": 25,
-        "chef_picture_url": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1682978240~exp=1682978840~hmac=6103651b3325362aadcf5c987923dd8cdd0a5e595bf5e72ec2c26dafc404f085",
+        "chef_picture_url": "https://i.ibb.co/fMzG3cX/chef5.jpg",
         "likes": 43,
         "number_of_recipes": 12,
-        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy",
+        "description": "A sous chef is the second-in-command in a kitchen, responsible for   ensuring that all dishes are prepared to the highest standards",
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole chicken",
                     "lemon",
@@ -223,7 +230,7 @@
             },
             {
                 "recipe_name": "Roasted Beef",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Beef",
                     "lemon",
@@ -236,7 +243,7 @@
             },
             {
                 "recipe_name": "Roasted Mutton",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Mutton",
                     "lemon",
@@ -251,16 +258,16 @@
     },
     {
         "id": 6,
-        "chef_name": "Mario Batali",
+        "chef_name": "John Dalton",
         "experience_years": 25,
-        "chef_picture_url": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1682978240~exp=1682978840~hmac=6103651b3325362aadcf5c987923dd8cdd0a5e595bf5e72ec2c26dafc404f085",
+        "chef_picture_url": "https://i.ibb.co/2c0Nj42/male-chef-kitchen-cooking.jpg",
         "likes": 43,
         "number_of_recipes": 12,
-        "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy",
+        "description": "A barbecue chef is a skilled cook who specializes in preparinga variety of rubs to enhance flavor",
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole chicken",
                     "lemon",
@@ -273,7 +280,7 @@
             },
             {
                 "recipe_name": "Roasted Beef",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Beef",
                     "lemon",
@@ -286,7 +293,7 @@
             },
             {
                 "recipe_name": "Roasted Mutton",
-                "recipe_img_url":"https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683045642~exp=1683046242~hmac=26eb8bd643a1920264df29b155de08c60ee85353ba35b4a987a8e0c540531ae8",
+               
                 "ingredients": [
                     "whole Mutton",
                     "lemon",
