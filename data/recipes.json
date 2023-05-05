@@ -2,15 +2,14 @@
     {
         "id": 1,
         "chef_name": "Sarah Taylor ",
-        "experience_years": 25,
-        "chef_picture_url": "https://i.ibb.co/qy7FJqv/chef4.jpg",
-        "likes": 43,
-        "number_of_recipes": 12,
+        "experience_years": 19,
+        "chef_picture_url": "https://i.ibb.co/s56V4RT/portrait-female-chef-with-cooking-pot-table-with-fresh-vegetables.jpg",
+        "likes": 125,
+        "number_of_recipes": 36,
         "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy",
         "recipes": [
             {
                 "recipe_name": "Roasted Chicken",
-               
                 "ingredients": [
                     "whole chicken",
                     "lemon",
@@ -23,285 +22,267 @@
             },
             {
                 "recipe_name": "Stir-Fried Beef and Broccoli",
-               
                 "ingredients": [
-                  " 1 pound beef sirloin, sliced into thin strips",
-"2 cups broccoli florets",
-"1 tablespoon cornstarch",
-"1 tablespoon soy sauce",
-"1 teaspoon sesame oil"
+                    "1 pound beef sirloin, sliced into thin strips",
+                    "2 cups broccoli florets",
+                    "1 tablespoon cornstarch",
+                    "1 tablespoon soy sauce",
+                    "1 teaspoon sesame oil"
                 ],
                 "cooking_method": "In a wok or large skillet, heat 1 tablespoon of oil over high heat.Add the beef and stir-fry until browned.Add the broccoli and stir-fry for 2-3 minutes.In a small bowl, mix together the cornstarch, soy sauce, and sesame oil.Add the sauce to the wok and stir-fry until the sauce thickens and coats the beef and broccoli",
                 "rating": 4.5
             },
             {
-                "recipe_name": "Roasted Mutton",
-               
+                "recipe_name": "Grill",
                 "ingredients": [
                     "4 cups chicken broth",
-                   "2 eggs, beaten",
-                  "2 tablespoons cornstarch",
-                  "1 tablespoon soy sauce",
-                  "1 green onion, thinly sliced"
+                    "2 eggs, beaten",
+                    "2 tablespoons cornstarch",
+                    "1 tablespoon soy sauce",
+                    "1 green onion, thinly sliced"
                 ],
                 "cooking_method": "Preheat a grill or grill pan to high heat. Season the beef with salt and pepper.Grill the beef for 2-3 minutes per side, until browned.In a pot of boiling water, blanch the broccoli for 2-3 minutes.In a large skillet, heat the sauce over medium heat until it thickens.Add the beef and broccoli to the skillet and toss to coat in the sauce",
-                
-              
                 "rating": 4
             }
         ]
     },
-
-
-
+    
     {
         "id": 2,
-        "chef_name": "Olivia Sopiha",
+        "chef_name": "James Anderson",
         "experience_years": 25,
-        "chef_picture_url": "https://i.ibb.co/9cRd7WT/chef2.jpg",
-        "likes": 43,
+        "chef_picture_url": "https://i.ibb.co/2c0Nj42/male-chef-kitchen-cooking.jpg",
+        "likes": 600,
         "number_of_recipes": 50,
         "description": "A chef is a professional cook who is skilled in preparing and cooking a variety of dishes",
         "recipes": [
             {
                 "recipe_name": "Pork and Shrimp Wontons",
-               
                 "ingredients": [
-                 "Wonton wrappers",
-                   "Ground pork",
+                    "Wonton wrappers",
+                    "Ground pork",
                     "Raw shrimp, peeled and deveined",
-                   "Green onions, thinly sliced",
+                    "Green onions, thinly sliced",
                     "Soy sauce"
                 ],
                 "cooking_method": "In a mixing bowl, combine the ground pork, shrimp, green onions, and soy sauce.Spoon a small amount of the mixture into each wonton wrapper and fold it into a triangle or purse shape.In a large pot of boiling water, cook the wontons for 3-5 minutes or until they float to the surface.Serve hot with soy sauce or dipping sauce of your choice",
-                
-              
                 "rating": 4
             },
             {
-                "recipe_name": "Roasted Beef",
-               
+                "recipe_name": "Kung Pao Chicken",
                 "ingredients": [
-                    "whole Beef",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "Chicken",
+                    "onion",
+                    "bell pepper",
+                    "peanuts",
+                    "Kung Pao sauce"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "In a bowl, marinate the chicken pieces in soy sauce, Shaoxing wine, and cornstarch for 10-15 minutes.Heat 1 tablespoon of vegetable oil in a wok or large skillet over high heat. Add the marinated chicken pieces and stir-fry for 3-4 minutes, until browned and cooked through. Remove the chicken from the wok and set aside",
                 "rating": 5
             },
             {
-                "recipe_name": "Roasted Mutton",
-               
+                "recipe_name": "Mapo Tofu",
                 "ingredients": [
-                    "whole Mutton",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "Ground pork",
+                    "tofu",
+                    "Sichuan peppercorns",
+                    "fermented black beans",
+                    "spicy sauce"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "Heat the vegetable oil in a wok or large skillet over medium-high heat. Add the ground pork and stir-fry for 2-3 minutes, until browned and cooked through.Add the Sichuan peppercorns and dried chili flakes to the wok and stir-fry for another 10-20 seconds, until fragrant.",
                 "rating": 3.5
             }
         ]
     },
+
     {
         "id": 3,
         "chef_name": "Kimo Paul",
-        "experience_years": 25,
-        "chef_picture_url": "https://i.ibb.co/MnXbDh9/chef3.jpg",
-        "likes": 43,
-        "number_of_recipes": 12,
+        "experience_years": 33,
+        "chef_picture_url": "https://i.ibb.co/dKKvFhS/studio-portrait-cook-man-with-fresh-vegetables-table.jpg",
+        "likes": 333,
+        "number_of_recipes": 33,
         "description": "A pastry chef is a specialized type of chef who focuses on creating and decorating pastries, desserts, and baked goods",
         "recipes": [
             {
-                "recipe_name": "Roasted Chicken",
-               
+                "recipe_name": "Twice-Cooked Pork",
                 "ingredients": [
-                    "whole chicken",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "1 lb pork belly",
+                    "2 cloves garlic, minced",
+                    "1 inch ginger, minced",
+                    "1/2 head napa cabbage, sliced",
+                    "1 red bell pepper, sliced"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "In a large pot, cover the pork belly with water and bring to a boil. Reduce heat and simmer for about 45 minutes, or until the pork is cooked through. Remove the pork from the pot and let it cool slightly. Cut the pork into thin slices. Heat the vegetable oil in a wok or large frying pan over high heat.",
                 "rating": 5
             },
             {
-                "recipe_name": "Roasted Beef",
-               
+                "recipe_name": "Cantonese Roast Pork",
                 "ingredients": [
-                    "whole Beef",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "1 lb pork belly, skin-on",
+                    "2 tablespoons honey",
+                    "2 tablespoons soy sauce",
+                    "2 tablespoons Chinese rice wine",
+                    "1 teaspoon five spice powder"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "In a small bowl, whisk together the honey, soy sauce, rice wine, five spice powder, salt, and white pepper. Place the pork belly in a large resealable plastic bag and pour in the marinade. Seal the bag and refrigerate for at least 4 hours, or up to overnight. Preheat the oven to 375°F. Line a baking sheet with foil and place a wire rack on top.",
                 "rating": 3
             },
             {
-                "recipe_name": "Roasted Mutton",
-               
+                "recipe_name": "Char Siu",
                 "ingredients": [
-                    "whole Mutton",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    " 1 lb pork shoulder, cut into strips",
+                    "3 tablespoons soy sauce",
+                    "3 tablespoons honey",
+                    "2 tablespoons hoisin sauce",
+                    "1 teaspoon five spice powde"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "In a large bowl, whisk together the soy sauce, honey, hoisin sauce, five spice powder, and garlic. Add the pork shoulder strips and toss to coat. Cover and refrigerate for at least 2 hours, or up to overnight. Preheat the oven to 375°F. Line a baking sheet with foil and place a wire rack on top.",
                 "rating": 4
             }
         ]
     },
+
     {
         "id": 4,
         "chef_name": "Elisa Perry",
-        "experience_years": 25,
-        "chef_picture_url": "https://i.ibb.co/Hz8cTDy/chef-holding-pan-with-fire-inside.jpg",
-        "likes": 43,
-        "number_of_recipes": 12,
+        "experience_years": 40,
+        "chef_picture_url": "https://i.ibb.co/3TSr9Dh/chef-enjoying-aroma-meal.jpg",
+        "likes": 600,
+        "number_of_recipes": 89,
         "description": "A  chef, also known as a line cook or  cook, is responsible for cooking and preparing food on a grill or flat-top griddle in a restaurant or commercial kitchen setting.",
         "recipes": [
             {
-                "recipe_name": "Roasted Chicken",
-               
+                "recipe_name": "Mongolian Lamb",
                 "ingredients": [
-                    "whole chicken",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "1 lb lamb shoulder, sliced",
+                    "3 tablespoons soy sauce",
+                    "2 tablespoons hoisin sauce",
+                    "1 tablespoon grated ginger",
+                    "2 cloves garlic, minced"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "In a large bowl, whisk together the soy sauce, hoisin sauce, ginger, garlic, and red pepper flakes. Add the lamb shoulder slices and toss to coat. Cover and refrigerate for at least 30 minutes, or up to 4 hours. Heat the vegetable oil in a large skillet over high heat.",
                 "rating": 3.5
             },
             {
-                "recipe_name": "Roasted Beef",
-               
+                "recipe_name": "Hot and Sour Mutton Soup",
                 "ingredients": [
-                    "whole Beef",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "1 lb mutton leg, bone-in",
+                    "8 cups water",
+                    "1 onion, sliced",
+                    "1 carrot, sliced",
+                    "1 celery stalk, sliced"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "In a large pot, heat the vegetable oil over medium-high heat. Add the mutton leg and brown on all sides for 5-7 minutes. Add the sliced onion, carrot, celery, garlic, ginger, and sliced shiitake mushrooms to the pot. Stir-fry for another 3-5 minutes.Pour in the water and add the soy sauce, dark soy sauce.",
                 "rating": 5
             },
             {
-                "recipe_name": "Roasted Mutton",
-               
+                "recipe_name": "Xinjiang Lamb Skewers",
                 "ingredients": [
-                    "whole Mutton",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "1 lb boneless mutton",
+                    "1 onion, finely chopped",
+                    "3 garlic cloves, minced",
+                    "1 tablespoon ground cumin",
+                    "1 tablespoon chili powder"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "In a large bowl, mix together the mutton, onion, garlic, cumin, chili powder, Sichuan peppercorns, salt, and vegetable oil. Marinate for at least 2 hours, or overnight.Thread the marinated mutton cubes onto the bamboo skewers. Preheat a grill or grill pan to high heat. Grill the skewers for 2-3 minutes on each side, until the mutton is cooked through.",
                 "rating": 4
             }
         ]
     },
+
     {
         "id": 5,
         "chef_name": "Ross Adair",
-        "experience_years": 25,
-        "chef_picture_url": "https://i.ibb.co/fMzG3cX/chef5.jpg",
-        "likes": 43,
-        "number_of_recipes": 12,
-        "description": "A sous chef is the second-in-command in a kitchen, responsible for   ensuring that all dishes are prepared to the highest standards",
+        "experience_years": 15,
+        "chef_picture_url": "https://i.ibb.co/rQXDRQx/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs.jpg",
+        "likes": 543,
+        "number_of_recipes": 322,
+        "description": "A Noodles chef is the second-in-command in a kitchen, responsible for   ensuring that all dishes are prepared to the highest standards",
         "recipes": [
             {
-                "recipe_name": "Roasted Chicken",
-               
+                "recipe_name": "Dan Dan Noodles",
                 "ingredients": [
-                    "whole chicken",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "8 oz dried wheat noodles",
+                    "1/2 lb ground pork",
+                    "1/4 cup peanuts, chopped",
+                    "2 scallions, sliced",
+                    "2 tablespoons vegetable oil"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "Cook the noodles according to the package instructions until al dente. Drain and set aside. In a wok or large skillet, heat the vegetable oil over high heat. Add the ground pork and stir-fry for 5-7 minutes, until browned and cooked through. Add the chopped peanuts, scallions, chili oil",
                 "rating": 4.5
             },
             {
-                "recipe_name": "Roasted Beef",
-               
+                "recipe_name": "Hot and Sour Noodle Soup",
                 "ingredients": [
-                    "whole Beef",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "8 oz dried wheat noodles",
+                    "1 tablespoon vegetable oil",
+                    "1/2 cup sliced shiitake mushrooms",
+                    "1/2 cup sliced bamboo shoots",
+                    "1/2 cup diced firm tofu"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "Cook the noodles according to the package instructions until al dente. Drain and set aside.In a wok or large pot, heat the vegetable oil over medium-high heat. Add the sliced shiitake mushrooms and stir-fry for 2-3 minutes, until browned and fragrant",
                 "rating": 4.2
             },
             {
-                "recipe_name": "Roasted Mutton",
-               
+                "recipe_name": "Cold Sesame Noodles",
                 "ingredients": [
-                    "whole Mutton",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "8 oz dried wheat noodles",
+                    "1/2 cup smooth peanut butter",
+                    "2 tablespoons soy sauce",
+                    "2 tablespoons sesame oil",
+                    "1 tablespoon rice vinegar"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "Cook the noodles according to the package instructions until al dente. Drain and rinse with cold water. Set aside.In a bowl, whisk together the peanut butter, soy sauce, sesame oil, rice vinegar, honey, grated ginger, and minced garlic until smooth. Gradually whisk in hot water",
                 "rating": 4.8
             }
         ]
     },
+
     {
         "id": 6,
         "chef_name": "John Dalton",
-        "experience_years": 25,
-        "chef_picture_url": "https://i.ibb.co/2c0Nj42/male-chef-kitchen-cooking.jpg",
-        "likes": 43,
-        "number_of_recipes": 12,
+        "experience_years": 45,
+        "chef_picture_url": "https://i.ibb.co/D1zmzcf/chef-with-pan-copy-space.jpg",
+        "likes": 1200,
+        "number_of_recipes": 65,
         "description": "A barbecue chef is a skilled cook who specializes in preparinga variety of rubs to enhance flavor",
         "recipes": [
             {
-                "recipe_name": "Roasted Chicken",
-               
+                "recipe_name": "Chinese Broccoli with Oyster Sauce",
                 "ingredients": [
-                    "whole chicken",
-                    "lemon",
+                    "Chinese broccoli",
+                    "oyster sauce",
                     "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "oil",
+                    "egg"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "Blanch Chinese broccoli, stir-fry with garlic and oil, add oyster sauce",
                 "rating": 3.8
             },
             {
-                "recipe_name": "Roasted Beef",
-               
+                "recipe_name": "Sweet and Sour Fish",
                 "ingredients": [
-                    "whole Beef",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    "1 lb fish fillets",
+                    "1/2 cup cornstarch",
+                    "Vegetable oil, for frying",
+                    "1 bell pepper, cut into bite-sized pieces",
+                    "1 onion, cut into bite-sized pieces",
+                    "1/2 cup sweet and sour sauce"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "Dredge the fish pieces in cornstarch, shaking off any excess. Heat about 1 inch of vegetable oil in a wok or deep frying pan over medium-high heat. Once the oil is hot, add the fish in batches and fry until golden brown and crispy, about 3-4 minutes per side. Use a slotted spoon to transfer the cooked fish to a paper towel-lined plate to drain any excess oil. In the same wok or pan, stir-fry the bell pepper and onion over high heat until they begin to soften, about 2-3 minutes ",
                 "rating": 4.5
             },
             {
-                "recipe_name": "Roasted Mutton",
-               
+                "recipe_name": "Fish Fragrant Eggplant and Fish",
                 "ingredients": [
-                    "whole Mutton",
-                    "lemon",
-                    "garlic",
-                    "dried thyme",
-                    "olive oil"
+                    " 1 lb fish fillets ",
+                    "1/2 cup cornstarch",
+                    "Vegetable oil, for frying",
+                    "1 large eggplant, cut into bite-sized pieces",
+                    "3 cloves garlic, minced"
                 ],
-                "cooking_method": "Roasting is a slow-cooking process, using indirect, diffused heat to cook its ingredients. It is a dry-heat cooking method where hot air surrounds the food and cooks it evenly on all sides at a temperature of at least 300 °F (or 150 °C). The heat can also be derived from an open flame, an oven, or another heat source..",
+                "cooking_method": "Dredge the fish pieces in cornstarch, shaking off any excess. Heat about 1 inch of vegetable oil in a wok or deep frying pan over medium-high heat. Once the oil is hot, add the fish in batches and fry until golden brown and crispy, about 3-4 minutes per side. Use a slotted spoon to transfer the cooked fish to a paper towel-lined plate to drain any excess oil. In the same wok or pan, stir-fry the eggplant, garlic, ginger, and chili bean paste over high heat until the eggplant is soft and golden brown, about 5-6 minutes.",
                 "rating": 5
             }
         ]

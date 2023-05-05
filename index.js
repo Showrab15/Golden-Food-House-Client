@@ -4,18 +4,18 @@ const cors = require('cors')
 // port of my server
 const port =  5000;
 
-// require for recipes json
+// require for chefs json
 const recipes = require('./data/recipes.json');
 
 // cors added
 app.use(cors())
 
 app.get('/', (req, res) => {
-res.send('Food Recipe is running')
+res.send('Chines Chef API  is running for assingment 10')
 })
 
 
-// response for recipes API
+// response for chefs API
 app.get('/recipes', (req, res)=>{
     res.send(recipes)
 })
@@ -28,5 +28,5 @@ app.get('/recipes/:id', (req, res)=>{
 })
 
 app.listen(port ,()=>{
-    console.log(`Food Recipe API is running on ${port}`)
+    console.log(`Chines Chef API is running on ${port}`)
 })
